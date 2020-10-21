@@ -7,7 +7,7 @@ export default {
   props: {
     width: {
       type: Number,
-      default: 40
+      default: 200
     }
   },
 

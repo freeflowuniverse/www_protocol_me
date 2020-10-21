@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Docc',
+  siteName: 'Protocol.Me',
   icon: {
     favicon: './src/assets/favicon.png',
     touchicon: './src/assets/favicon.png'
@@ -14,7 +14,7 @@ module.exports = {
   settings: {
     web: process.env.URL_WEB || false,
     twitter: process.env.URL_TWITTER || false,
-    github: process.env.URL_GITHUB || false,
+    github: process.env.URL_GITHUB || 'https://github.com/crystaluniverse/protocol-website/tree/develop' ,
     nav: {
       links: [
         { path: '/docs/', title: 'Docs' }

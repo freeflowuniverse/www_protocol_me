@@ -3,16 +3,16 @@
     <div class="pt-8 md:pt-16">
       <div class="flex flex-col items-center">
         <div class="flex flex-col items-center mb-2 text-ui-primary">
-          <Logo :width="80" />
+          <Logo :width="200" />
           <h2 class="text-3xl text-6xl font-black tracking-tighter border-none">
-            DOCC
+            Protocol.me
           </h2>
         </div>
         <h1 class="text-4xl text-center lg:text-5xl">
-          Great Documentation starts here.
+          Creating with the Crystal Twin starts here.
         </h1>
         <p class="text-xl font-medium text-center">
-          Perfect Lighthouse score out of the box. Easy to set-up. Dark mode included.
+          Everything you need to know to play and co-create with the Crystal Twin platform.
           <br>
           <strong class="text-ui-primary">Got a minute?</strong>
         </p>
