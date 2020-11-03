@@ -25,19 +25,26 @@ module.exports = {
         name: 'docs',
         sections: [
           {
-            title: 'Getting Started',
+            title: 'Let\'s Get Started',
             items: [
               '/docs/',
-              '/docs/installation/',
-              '/docs/writing-content/',
-              '/docs/deploying/',
+              '/docs/lets-start/',
+              '/docs/why-protocol-me/',
             ]
           },
           {
-            title: 'Configuration',
+            title: 'Let\'s Create',
             items: [
-              '/docs/settings/',
-              '/docs/sidebar/',
+              '/docs/hello-world/',
+              '/docs/root-objects/',
+              '/docs/example/',
+            ]
+          },
+          {
+            title: 'Support',
+            items: [
+              '/docs/frequently-asked-questions/',
+              '/docs/co-create-with-us/',
             ]
           }
         ]

@@ -1,57 +1,26 @@
 ---
 description: ''
 sidebar: 'docs'
-next: '/docs/installation/'
+next: '/docs/lets-start/'
 ---
 
-# Introduction
+# Welcome! Let me take you on a journey
 
-Docc is a starter theme for [Gridsome](https://gridsome.org/) which is a static site generator powered by Vue. It allows you to quickly start writing your technical documentation for any kind of project.
+**Protocol.me is the easiest way to program on the crystal twin and the beauty of it all is: It does almost all the work for you!**
 
-## Fast by default
+Fully powered by the [ThreeFold Grid](https://threefold.io) there is nothing you need to do. The Crystal Twin uses the _autonomous layer_ which makes our work as developers much smoother as resource and memory allocation is been done for us, in fully peer-2-peer fashion. 
 
-This is the catchphrase of Gridsome and true in any sense of the word. Static site generators output plain html files and have other great features like image processing and lazy-loading. After Serving the initial html, Gridsome site turn into a snappy single page application.
+## Developing a truely peer2peer experience has never been easier!
 
-If I may quote Gridsome themselves:
+ ---
 
-> Gridsome builds ultra performance into every page automatically. You get code splitting, asset optimization, progressive images, and link prefetching out of the box. With Gridsome you get almost perfect page speed scores by default.
+Many more solutions will be added in the future. ThreeFold Now is a marketplace that will continue to grow, a marketplace of decentralized applications that will set us free.
 
-In combination with [Netlify](https://www.netlify.com/) this theme gives you a perfect Lighthouse score out of the box.
+**The Internet of tomorrow, available today — this is [ThreeFold Now](https://marketplace.threefold.io).**  
 
-## Simple Navigation
+![](./index/img/demo_site_overview.png)
 
-Any good documentation has great navigation. This theme has support for an organized sidebar fore cross-page navigation as well as an autmatic generated table of contents for each page in your documentation.
+*Please note that ThreeFold Now is currently operating in demo mode on testnet. Your deployments will be cancelled after three hours automatically.*
 
-## Search
+*The tools still require some technical know-how, but 1. we have tutorials tied to each live solution and 2. are very happy with progress until today. We firmly believe there is nothing else out there like ThreeFold Now.*
 
-The search component which is shipped with this theme, automatically indexes all headlines in your markdown pages and provides instant client side search powered by [Fuse.js](https://fusejs.io/).
-
-## Dark Mode
-
-This seems to be a must have for any site in current year. Click the icon at the top of the page and try it out for yourself!
-
-## TailwindCSS
-
-This starter uses [TailwindCSS](https://tailwindcss.com/) for layout and styling. You can easily configure it by editing the `tailwind.config.js` file. [PurgeCSS](https://purgecss.com/) is included as well to keep the bundle size as low as possible and the website fast and snappy!
-
-### Changing Colors
-
-The most inportant colors are defined in the `src/layouts/Default.vue` file at the top of the `style` block via CSS variables. If you want to change the primary color to orange for example, you would simply touch that value there.
-
-```css
-:rrot {
-  --color-ui-primary: theme('colors.orange.600');
-}
-```
-
-## Make it your own
-
-Of course this is just a starter to quickly get you going. After downloading and installing you can do whatever you want with this theme. Check out the `src` folder and take a look at the components.
-
-Docc uses [TailwindCSS](https://tailwindcss.com/). Colors and spacing can easily configured. To change the accent color, you only need to touch a single line in the code.
-
-Don't like how something was designed or implemented? Just change the code and **make it your way**.
-
-### Contribute
-
-If you find any spelling mistakes or have improvements to offer, I am open to anyone who has ideas and wants to contribute to this starter theme.
