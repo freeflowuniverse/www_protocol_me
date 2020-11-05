@@ -5,7 +5,7 @@ prev: '/docs/hello-world/'
 next: '/docs/example/'
 ---
 
-# Here are the Root Objects
+# The Root Objects
 
 Docc is a starter theme for [Gridsome](https://gridsome.org/) which is a static site generator powered by Vue. It allows you to quickly start writing your technical documentation for any kind of project.
 
