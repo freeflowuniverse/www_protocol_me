@@ -1,10 +1,10 @@
 ---
 description: ''
 sidebar: 'docs'
-next: '/docs/installation/'
+prev: '/docs/frequently-asked-questions/'
 ---
 
-# Introduction
+# Co-Create With Us!
 
 Docc is a starter theme for [Gridsome](https://gridsome.org/) which is a static site generator powered by Vue. It allows you to quickly start writing your technical documentation for any kind of project.
 
