@@ -1,6 +1,13 @@
 # protocol-website
 This will be the Gridsome environment used for generating the protocol.me website. 
 
+### This is how it looks like when deploying
+#### The temporary homepage
+![](./content/docs/index/img/docc-homepage.JPG)
+#### The first wiki page (dark and light mode)
+![](./content/docs/index/img/docc-capture.JPG)
+![](./content/docs/index/img/docc-capture-light.JPG)
+
 ## Installation
 
 ### Install Gridsome
